@@ -1,0 +1,80 @@
+Orden pedido,Fecha,Día semana,Día semana,Hora,Nombre,Género,Ubicación,Distrito,Edad,Canal,Marca,Momento ,Producto 1,Id_producto1,Precio 1,Cantidad 1
+1,24/04/2022,1,Domingo,21:00,María,Mujer,Domicilio,Barajas,36,Omnicanal,Tupperlandia,Tuppers,Carne asada con patatas,1486833,"10,00 €",2
+1,24/04/2022,1,Domingo,21:00,María,Mujer,Domicilio,Barajas,36,Omnicanal,Tupperlandia,Tuppers,Fabada asturiana,34297,"8,00 €",2
+2,24/04/2022,1,Domingo,21:15,Laura,Mujer,Domicilio,Puente de Vallecas,28,Móvil,Tupperlandia,Tuppers,Lentejas con chorizo,219546,"8,00 €",2
+2,24/04/2022,1,Domingo,21:15,Laura,Mujer,Domicilio,Puente de Vallecas,28,Móvil,Tupperlandia,Tuppers,Merluza con patatas al horno,1087472,"12,00 €",2
+2,24/04/2022,1,Domingo,21:15,Laura,Mujer,Domicilio,Puente de Vallecas,28,Móvil,Tupperlandia,Tuppers,Crema de judías verdes y calabacín,-10000000,"8,00 €",2
+3,25/04/2022,2,Lunes,13:45,Manuel,Hombre,Oficina,Chamartín,34,Omnicanal,Mercado lejano,Comida,Tortilla de patatas,223843,"11,00 €",1
+3,25/04/2022,2,Lunes,13:45,Manuel,Hombre,Oficina,Chamartín,34,Omnicanal,Mercado lejano,Comida,Ensalada mixta,542110,"5,00 €",1
+3,25/04/2022,2,Lunes,13:45,Manuel,Hombre,Oficina,Chamartín,34,Omnicanal,Mercado lejano,Comida,Cola,216065,"2,00 €",1
+4,25/04/2022,2,Lunes,13:30,Rosa,Mujer,Trabajo,Chamartín,49,Móvil,Mercado lejano,Comida,Ensalada de pasta,1088123,"6,00 €",1
+4,25/04/2022,2,Lunes,13:30,Rosa,Mujer,Trabajo,Chamartín,49,Móvil,Mercado lejano,Comida,Agua mineral,730257,"1,00 €",1
+5,26/04/2022,3,Martes,14:15,Beatriz,Mujer,Domicilio,Carabanchel,21,Móvil,Mercado lejano,Comida,Tortilla de patatas,223843,"11,00 €",1
+5,26/04/2022,3,Martes,14:15,Beatriz,Mujer,Domicilio,Carabanchel,21,Móvil,Mercado lejano,Comida,Croquetas jamón,839612,"6,00 €",1
+5,26/04/2022,3,Martes,14:15,Beatriz,Mujer,Domicilio,Carabanchel,21,Móvil,Mercado lejano,Comida,Croquetas bacalao,2469,"7,00 €",1
+6,26/04/2022,3,Martes,14:20,Victor,Hombre,Punto dispensación,None,65,Físico,Parrillada cercana,Comida,Tortilla de patatas,223843,"11,00 €",2
+6,26/04/2022,3,Martes,14:20,Victor,Hombre,Punto dispensación,None,65,Físico,Parrillada cercana,Comida,Croquetas jamón,839612,"6,00 €",2
+7,26/04/2022,3,Martes,21:05,Cristobal,Hombre,Domicilio,Latina,19,Móvil,Mercado lejano,Cena,Tallarines carbonara,610984,"7,00 €",1
+7,26/04/2022,3,Martes,21:05,Cristobal,Hombre,Domicilio,Latina,19,Móvil,Mercado lejano,Cena,Tarta de zanahoria,399468,"6,00 €",1
+8,27/04/2022,4,Miércoles,13:50,Manuel,Hombre,Oficina,Chamartín,34,Omnicanal,Mercado lejano,Comida,Raviolis al pesto,1515257,"8,00 €",1
+8,27/04/2022,4,Miércoles,13:50,Manuel,Hombre,Oficina,Chamartín,34,Omnicanal,Mercado lejano,Comida,Agua mineral,730257,"1,00 €",1
+8,27/04/2022,4,Miércoles,13:50,Manuel,Hombre,Oficina,Chamartín,34,Omnicanal,Mercado lejano,Comida,Flan de café,54888,"4,00 €",1
+9,27/04/2022,4,Miércoles,14:10,María,Mujer,Oficina,Chamartín,36,Móvil,Mercado lejano,Comida,Tallarines carbonara,610984,"7,00 €",1
+9,27/04/2022,4,Miércoles,14:10,María,Mujer,Oficina,Chamartín,36,Móvil,Mercado lejano,Comida,Agua mineral,730257,"1,00 €",1
+9,27/04/2022,4,Miércoles,14:10,María,Mujer,Oficina,Chamartín,36,Móvil,Mercado lejano,Comida,Tarta de zanahoria,399468,"6,00 €",1
+10,28/04/2022,5,Jueves,14:05,Manuel,Hombre,Oficina,Chamartín,34,Móvil,Mercado lejano,Comida,Mejillones rellenos,76518,"8,00 €",1
+10,28/04/2022,5,Jueves,14:05,Manuel,Hombre,Oficina,Chamartín,34,Móvil,Mercado lejano,Comida,Croquetas de bacalao,2469,"7,00 €",1
+10,28/04/2022,5,Jueves,14:05,Manuel,Hombre,Oficina,Chamartín,34,Móvil,Mercado lejano,Comida,Cola,216065,"2,00 €",1
+11,28/04/2022,5,Jueves,21:40,Kevin,Hombre,Domicilio,Usera,22,Móvil,Mercado lejano,Cena,Pizza carbonara,241730,"8,00 €",1
+11,28/04/2022,5,Jueves,21:40,Kevin,Hombre,Domicilio,Usera,22,Móvil,Mercado lejano,Cena,Patatas alioli,-20000000,"4,00 €",1
+12,29/04/2022,6,Viernes,14:15,Paco,Hombre,Domicilio,Carabanchel,45,Móvil,Mercado lejano,Comida,Tortilla de patatas,223843,"11,00 €",2
+12,29/04/2022,6,Viernes,14:15,Paco,Hombre,Domicilio,Carabanchel,45,Móvil,Mercado lejano,Comida,Croquetas jamón,839612,"6,00 €",1
+12,29/04/2022,6,Viernes,14:15,Paco,Hombre,Domicilio,Carabanchel,45,Móvil,Mercado lejano,Comida,Ensalada mixta,542110,"5,00 €",2
+13,29/04/2022,6,Viernes,15:15,Manuel,Hombre,Domicilio,Hortaleza,34,Móvil,Mercado lejano,Comida,Entrecot en salsa de boletus con puré,471242,"12,00 €",1
+13,29/04/2022,6,Viernes,15:15,Manuel,Hombre,Domicilio,Hortaleza,34,Móvil,Mercado lejano,Comida,Ensalada mixta,542110,"5,00 €",1
+13,29/04/2022,6,Viernes,15:15,Manuel,Hombre,Domicilio,Hortaleza,34,Móvil,Mercado lejano,Comida,Cerveza,1375845,"2,00 €",1
+14,29/04/2022,6,Viernes,21:10,Kevin,Hombre,Domicilio,Usera,22,Móvil,Mercado lejano,Cena,Nachos con guacamole,1171395,"5,00 €",1
+14,29/04/2022,6,Viernes,21:10,Kevin,Hombre,Domicilio,Usera,22,Móvil,Mercado lejano,Cena,Croquetas jamón,839612,"6,00 €",1
+15,29/04/2022,6,Viernes,21:15,Olena,Mujer,Domicilio,Vicálvaro,35,Móvil,Mercado lejano,Cena,Patatas alioli,-2000000,"4,00 €",1
+15,29/04/2022,6,Viernes,21:15,Olena,Mujer,Domicilio,Vicálvaro,35,Móvil,Mercado lejano,Cena,Nachos con guacamole,1171395,"5,00 €",1
+15,29/04/2022,6,Viernes,21:15,Olena,Mujer,Domicilio,Vicálvaro,35,Móvil,Mercado lejano,Cena,Cerveza,1375845,"2,00 €",1
+16,29/04/2022,6,Viernes,21:20,Cristobal,Hombre,Domicilio,Latina,19,Móvil,Mercado cercano,Cena,Pizza vegetal,246803,"7,00 €",1
+16,29/04/2022,6,Viernes,21:20,Cristobal,Hombre,Domicilio,Latina,19,Móvil,Mercado cercano,Cena,Macedonia tropical,47416,"6,00 €",1
+17,30/04/2022,7,Sábado,14:15,Laura,Mujer,Domicilio,Puente de Vallecas,28,Móvil,Mercado lejano,Comida,Pizza carbonara,241730,"8,00 €",1
+17,30/04/2022,7,Sábado,14:15,Laura,Mujer,Domicilio,Puente de Vallecas,28,Móvil,Mercado lejano,Comida,Ensalada mixta,542110,"5,00 €",1
+18,30/04/2022,7,Sábado,13:50,Manuel,Hombre ,Domicilio,Hortaleza,34,Móvil,Mercado lejano,Comida,Fabada asturiana,34297,"8,00 €",1
+18,30/04/2022,7,Sábado,13:50,Manuel,Hombre ,Domicilio,Hortaleza,34,Móvil,Mercado lejano,Comida,Tarta 3 chocolates,-40000000,"6,00 €",1
+18,30/04/2022,7,Sábado,13:50,Manuel,Hombre ,Domicilio,Hortaleza,34,Móvil,Mercado lejano,Comida,Agua mineral,730257,"1,00 €",1
+19,30/04/2022,7,Sábado,21:30,María,Mujer,Domicilio,Barajas,36,Móvil,Mercado lejano,Cena,Pizza vegetal,246803,"7,00 €",1
+19,30/04/2022,7,Sábado,21:30,María,Mujer,Domicilio,Barajas,36,Móvil,Mercado lejano,Cena,Pizza peperoni,542880,"8,00 €",2
+19,30/04/2022,7,Sábado,21:30,María,Mujer,Domicilio,Barajas,36,Móvil,Mercado lejano,Cena,Nachos con guacamole,1171395,"5,00 €",1
+19,30/04/2022,7,Sábado,21:30,María,Mujer,Domicilio,Barajas,36,Móvil,Mercado lejano,Cena,Croquetas jamón,839612,"6,00 €",2
+19,30/04/2022,7,Sábado,21:30,María,Mujer,Domicilio,Barajas,36,Móvil,Mercado lejano,Cena,Cerveza,1375845,"2,00 €",5
+20,30/04/2022,7,Sábado,14:30,Paco,Hombre,Punto dispensación,None,45,Físico,Parrillada cercana,Cena,Pizza carbonara,241730,"8,00 €",2
+20,30/04/2022,7,Sábado,14:30,Paco,Hombre,Punto dispensación,None,45,Físico,Parrillada cercana,Cena,Pizza peperoni,542880,"8,00 €",2
+21,1/05/2022,1,Domingo,13:30,Olena,Mujer,Domicilio,Vicálvaro,35,Móvil,Mercado lejano,Comida,Fideguá de pescado y marisco,-30000000,"8,00 €",1
+21,1/05/2022,1,Domingo,13:30,Olena,Mujer,Domicilio,Vicálvaro,35,Móvil,Mercado lejano,Comida,Tarta 3 chocolates,-40000000,"6,00 €",1
+21,1/05/2022,1,Domingo,13:30,Olena,Mujer,Domicilio,Vicálvaro,35,Móvil,Mercado lejano,Comida,Cola,216065,"2,00 €",1
+22,1/05/2022,1,Domingo,21:15,María,Mujer,Domicilio,Barajas,36,Omnicanal,Tupperlandia,Tuppers,Crema de calabaza y zanahoria,617101,"8,00 €",2
+22,1/05/2022,1,Domingo,21:15,María,Mujer,Domicilio,Barajas,36,Omnicanal,Tupperlandia,Tuppers,Bacalao al pilpil,-50000000,"14,00 €",2
+23,1/05/2022,1,Domingo,20:45,Rosa,Mujer,Domicilio,Puente de Vallecas,49,PC,Tupperlandia,Tuppers,Pollo asado con puré de patata,195694,"9,00 €",5
+23,1/05/2022,1,Domingo,20:45,Rosa,Mujer,Domicilio,Puente de Vallecas,49,PC,Tupperlandia,Tuppers,Lentejas con chorizo,219546,"8,00 €",5
+24,2/05/2022,2,Lunes,13:55,Manuel,Hombre ,Oficina,Chamartín,34,Omnicanal,Mercado lejano,Comida,Croquetas de jamón,839612,"6,00 €",1
+24,2/05/2022,2,Lunes,13:55,Manuel,Hombre ,Oficina,Chamartín,34,Omnicanal,Mercado lejano,Comida,Ensalada mixta,542110,"5,00 €",1
+24,2/05/2022,2,Lunes,13:55,Manuel,Hombre ,Oficina,Chamartín,34,Omnicanal,Mercado lejano,Comida,Agua mineral,730257,"1,00 €",1
+25,2/05/2022,2,Lunes,13:55,María,Mujer,Oficina,Chamartín,36,Omnicanal,Mercado lejano,Comida,Ensalada de pasta,1088123,"6,00 €",1
+25,2/05/2022,2,Lunes,13:55,María,Mujer,Oficina,Chamartín,36,Omnicanal,Mercado lejano,Comida,Agua mineral,730257,"1,00 €",1
+25,2/05/2022,2,Lunes,13:55,María,Mujer,Oficina,Chamartín,36,Omnicanal,Mercado lejano,Comida,Tarta de queso horneada,594596,"6,00 €",1
+26,3/05/2022,3,Martes,14:30,Beatriz,Mujer,Domicilio,Carabanchel,21,Móvil,Mercado lejano,Comida,Espaguettis boloñesa,1086989,"8,00 €",1
+26,3/05/2022,3,Martes,14:30,Beatriz,Mujer,Domicilio,Carabanchel,21,Móvil,Mercado lejano,Comida,Tarta de queso fría con frutos rojos,559114,"7,00 €",1
+27,6/05/2022,6,Viernes,21:05,Cristobal,Hombre,Domicilio,Latina,19,Móvil,Mercado lejano,Cena,Ensalada mixta,542110,"5,00 €",1
+27,6/05/2022,6,Viernes,21:05,Cristobal,Hombre,Domicilio,Latina,19,Móvil,Mercado lejano,Cena,Pizza carbonara,241730,"8,00 €",1
+27,6/05/2022,6,Viernes,21:05,Cristobal,Hombre,Domicilio,Latina,19,Móvil,Mercado lejano,Cena,Langostinos gabardina,75764,"13,00 €",1
+28,6/05/2022,6,Viernes,21:15,Kevin,Hombre,Domicilio,Usera,22,Móvil,Mercado lejano,Cena,Pizza peperoni,542880,"8,00 €",1
+29,7/05/2022,7,Sábado,14:10,Laura,Mujer,Domicilio,Puente de Vallecas,28,Móvil,Mercado lejano,Comida,Nachos con guacamole,1171395,"5,00 €",2
+29,7/05/2022,7,Sábado,14:10,Laura,Mujer,Domicilio,Puente de Vallecas,28,Móvil,Mercado lejano,Comida,Pizza peperoni,542880,"8,00 €",1
+29,7/05/2022,7,Sábado,14:10,Laura,Mujer,Domicilio,Puente de Vallecas,28,Móvil,Mercado lejano,Comida,Croquetas jamón,839612,"6,00 €",2
+29,7/05/2022,7,Sábado,14:10,Laura,Mujer,Domicilio,Puente de Vallecas,28,Móvil,Mercado lejano,Comida,Cerveza,1375845,"2,00 €",4
+30,7/05/2022,7,Sábado,22:00,Beatriz,Mujer,Domicilio,Carabanchel,21,Móvil,Mercado lejano,Cena,Pizza carbonara,241730,"8,00 €",3
+30,7/05/2022,7,Sábado,22:00,Beatriz,Mujer,Domicilio,Carabanchel,21,Móvil,Mercado lejano,Cena,Pizza peperoni,542880,"8,00 €",1
+30,7/05/2022,7,Sábado,22:00,Beatriz,Mujer,Domicilio,Carabanchel,21,Móvil,Mercado lejano,Cena,Pizza vegetal,246803,"7,00 €",1

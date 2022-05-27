@@ -1,0 +1,11 @@
+id_cliente,Nombre,Edad,Profesion,EstadoCivil,Hijos,NumHijos,PersonasDependientes,NumDependientes,UnidadFamiliar,Ubicacion1,Distrito1,RentaCalle1,Ubicacion2,Distrito2,RentaCalle2
+1,Manuel,34,Ejecutivo,Soltero,No,0,No,0,1,Oficina,Chamartín,Alta,Domicilio ,Hortaleza,Alta
+2,Paco,45,Fontanero,Pareja,Sí,2,No,0,4,Pto. dispensación,N.D,N.D,Domicilio ,Carabanchel,Baja
+3,María,36,Ejecutiva,Pareja,No,0,No,0,2,Oficina ,Chamartín,Alta,Domicilio ,Barajas,Alta
+4,Laura,28,Cajera,Soltera,Sí,1,No,0,2,N.D,N.D,N.D,Domicilio ,Puente Vallecas,Baja
+5,Beatriz,21,Estudiante,Soltera,No,0,No,0,3,N.D,N.D,N.D,Domicilio ,Carabanchel,Baja
+6,Cristobal,19,Estudiante,Soltero,No,0,No,0,3,N.D,N.D,N.D,Domicilio ,Latina,Media
+7,Kevin,22,Desempleado,Soltero,No,0,No,0,4,N.D,N.D,N.D,Domicilio ,Usera,Baja
+8,Rosa,49,Asistenta hogar,Pareja,Sí,2,Sí,1,5,Domicilio de trabajo,Chamartín,Alta,Domicilio ,Puente Vallecas,Baja
+9,Victor,65,Jubilado,Pareja,Sí,1,No,0,3,Pto. dispensación,N.D,N.D,Domicilio ,Villaverde,Baja
+10,Olena,35,Estudiante y auxiliar administrativa,Soltera,No,0,No,0,1,Oficina,Vicálcaro,Media,Domicilio ,Vicálvaro,Media
